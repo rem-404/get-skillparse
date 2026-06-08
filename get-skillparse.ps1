@@ -33,7 +33,7 @@ function Get-SkillParse {
     )
     #>
 
-    # Expanded pool
+    # Expanded pool (AI Assisted for a massive keyword pool)
     $KnownSkills = @(
       # --- CORE SYSTEMS & OS ---
       'windows server', 'win server', 'winsvr', 'active directory', 'activedirectory', 'ad', 
